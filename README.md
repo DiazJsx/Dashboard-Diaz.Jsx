@@ -14,10 +14,11 @@ Este Dashboard con menú lateral accesible, ofrece una facilidad de uso y la nav
 
 <p align="center">
   <span style="display: flex; justify-content: center; gap: 10px;">
-    <img src="https://i.ibb.co/6mM8H8T/i-Phone-13-PRO-127-0-0-1.png" alt="Imagen de ejemplo" width="200" />
-    <img src="https://i.ibb.co/mq4w7NM/Macbook-Air-127-0-0-1-1.png" alt="Imagen de ejemplo" width="200" />
+    <img src="https://i.ibb.co/6mM8H8T/i-Phone-13-PRO-127-0-0-1.png" alt="Imagen de ejemplo" width="250" />
+    <img src="https://i.ibb.co/mq4w7NM/Macbook-Air-127-0-0-1-1.png" alt="Imagen de ejemplo" width="250" />
   </span>
 </p>
+
 
 
 
