@@ -9,9 +9,9 @@ Este Dashboard con menú lateral accesible, ofrece una facilidad de uso y la nav
 * Css
 * JavaScript
 
-### *Front-End*
+### Imagenes
 <p>
   <img src="https://i.ibb.co/bzs3FPY/Captura-de-pantalla-2024-11-14-230349.png" alt="HTML5" width="100" height="100"/> 
 </p>
 
-## Clone repositori: 
+## Clone repositori: https://github.com/DiazJsx/Dashboard-Diaz.Jsx.git
